@@ -2,7 +2,7 @@
 
 # Link to backend GitHub 
 
-- https://baibhavkumarpoudel.github.io/finalproject-backend/
+- ![Final Project Backend](https://baibhavkumarpoudel.github.io/finalproject-backend/)
 
 # App Name - Pokemon Card Collection
 
