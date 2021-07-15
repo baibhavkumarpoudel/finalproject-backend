@@ -32,10 +32,6 @@
 - method-override
 - body-parser 
 
-# Obsatacles regarding backend code
-
-- Association 
-
 # Wireframes 
 
 - Signup/Login
@@ -55,3 +51,6 @@
 
 <img src="https://github.com/baibhavkumarpoudel/finalproject-backend/blob/main/ERD.PNG" style="width: 800px;"/>
 
+# Obsatacles regarding backend code
+
+- Association 
