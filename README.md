@@ -51,6 +51,6 @@
 
 <img src="https://github.com/baibhavkumarpoudel/finalproject-backend/blob/main/ERD.PNG" style="width: 800px;"/>
 
-# Obsatacles regarding backend code
+# Obstacles regarding backend code
 
 - Association 
