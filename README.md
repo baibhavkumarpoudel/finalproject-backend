@@ -2,7 +2,7 @@
 
 # Link to backend GitHub 
 
-- ![Final Project Backend](https://baibhavkumarpoudel.github.io/finalproject-backend/)
+- https://baibhavkumarpoudel.github.io/finalproject-backend/
 
 # App Name - Pokemon Card Collection
 
@@ -42,6 +42,7 @@
 # Wireframes 
 
 <img src="https://github.com/baibhavkumarpoudel/finalproject-backend/blob/main/Wireframe2.PNG" style="width: 800px;"/>
+
 
 # ERD
 
