@@ -41,9 +41,7 @@
 
 # Wireframes 
 
-![](../Wireframe2.PNG)
-
-![Getting Started](wireframe2.PNG)
+<img src="https://github.com/baibhavkumarpoudel/finalproject-backend/blob/main/Wireframe2.PNG" style="width: 800px;"/>
 
 # ERD
 
