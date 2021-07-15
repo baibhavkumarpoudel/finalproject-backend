@@ -38,7 +38,7 @@
 
 # Wireframes 
 
-![](../../Wireframe2.PNG)
+![](../Wireframe2.PNG)
 
 ![Getting Started](wireframe2.PNG)
 
