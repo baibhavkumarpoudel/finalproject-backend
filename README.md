@@ -36,13 +36,22 @@
 
 - Association 
 
-# User Stories 
-
-
 # Wireframes 
 
+- Signup/Login
+<img src="https://github.com/baibhavkumarpoudel/finalproject-backend/blob/main/Wireframe.PNG" style="width: 800px;"/>
+
+- Profile/ Edit Page
 <img src="https://github.com/baibhavkumarpoudel/finalproject-backend/blob/main/Wireframe2.PNG" style="width: 800px;"/>
+
+- Home/ PkmnCard Page
+<img src="https://github.com/baibhavkumarpoudel/finalproject-backend/blob/main/Homepage.PNG" style="width: 800px;"/>
+
+- Pcards/ Chart
+<img src="https://github.com/baibhavkumarpoudel/finalproject-backend/blob/main/last.PNG" style="width: 800px;"/>
 
 
 # ERD
+
+<img src="https://github.com/baibhavkumarpoudel/finalproject-backend/blob/main/ERD.PNG" style="width: 800px;"/>
 
