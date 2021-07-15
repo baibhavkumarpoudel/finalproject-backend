@@ -36,9 +36,14 @@
 
 - Association 
 
+# User Stories 
+
+
 # Wireframes 
 
 ![](../Wireframe2.PNG)
 
 ![Getting Started](wireframe2.PNG)
+
+# ERD
 
