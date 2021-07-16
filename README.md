@@ -6,7 +6,7 @@
 
 # App Name - Pokemon Card Collection
 
-- The official website for users to access Pokemon cards along with a brief Pokedex description and other useful & fun descriptions!
+- The official website for users to access Pokemon cards along with a brief Pokedex information and other useful & fun descriptions!
 
 # User Stories:
 
